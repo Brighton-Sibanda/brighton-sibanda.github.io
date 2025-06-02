@@ -8,7 +8,13 @@ In my free time, I perform as a singer with a local band. We cover indie, soul, 
 
 ### 🎧 Sample Tracks
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315"
+  src="https://youtu.be/o4YoF9RiagQ"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 You can find our music on [Youtube](https://youtube.com/@missme.mp3?si=d7fnBrZOBg9DtSMw), and live shows across Evanston.
 
