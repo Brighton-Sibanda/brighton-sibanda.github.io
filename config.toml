@@ -10,22 +10,27 @@ publishDir = "public"
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
-  defaultTheme = "light"
+  defaultTheme = "dark"
   env = "production"
   googleAnalytics = ""
 
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
+  name = "About"
+  url = "/about/"
+  weight = 1
 
   [[menu.main]]
-    name = "Resume"
-    url = "/resume/"
-    weight = 2
+  name = "Resume"
+  url = "/resume/"
+  weight = 2
 
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 3
+  name = "Music"
+  url = "/music/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 4
