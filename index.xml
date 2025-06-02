@@ -16,9 +16,10 @@
 &lt;input type="email" name="email" required style="width: 300px;">&lt;br>&lt;br>
 &lt;p>&lt;label for="message">Your message:&lt;/label>&lt;br>&lt;/p></description></item><item><title>Music</title><link>https://brighton-sibanda.github.io/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brighton-sibanda.github.io/music/</guid><description>&lt;h2 id="-lead-singer--songwriter">🎤 Lead Singer &amp;amp; Songwriter&lt;/h2>
 &lt;p>In my free time, I perform as a singer with a local band. We cover indie, soul, and jazz-inspired originals.&lt;/p>
-&lt;h3 id="-sample-tracks">🎧 Sample Tracks&lt;/h3>
+&lt;h2 id="-watch-a-performance">🎶 Watch a Performance&lt;/h2>
+&lt;p>Here&amp;rsquo;s a live clip from one of our recent gigs:&lt;/p>
 &lt;iframe width="560" height="315"
-src="https://youtu.be/o4YoF9RiagQ"
+src="https://www.youtube.com/embed/o4YoF9RiagQ"
 title="YouTube video player"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
