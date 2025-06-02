@@ -1,0 +1,29 @@
+baseURL = "https://brighton-sibanda.github.io/"
+languageCode = "en-us"
+title = "Samantha Foerster"
+theme = "PaperMod"
+publishDir = "public"
+
+[params]
+  author = "Brighton Sibanda"
+  description = "Neuroscience Student | Researcher | Musician"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  defaultTheme = "light"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
