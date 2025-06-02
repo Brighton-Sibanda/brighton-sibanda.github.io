@@ -11,6 +11,8 @@ publishDir = "public"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   defaultTheme = "light"
+  env = "production"
+  googleAnalytics = ""
 
 [menu]
   [[menu.main]]
