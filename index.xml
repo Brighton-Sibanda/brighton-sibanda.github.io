@@ -17,7 +17,13 @@
 &lt;p>&lt;label for="message">Your message:&lt;/label>&lt;br>&lt;/p></description></item><item><title>Music</title><link>https://brighton-sibanda.github.io/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brighton-sibanda.github.io/music/</guid><description>&lt;h2 id="-lead-singer--songwriter">🎤 Lead Singer &amp;amp; Songwriter&lt;/h2>
 &lt;p>In my free time, I perform as a singer with a local band. We cover indie, soul, and jazz-inspired originals.&lt;/p>
 &lt;h3 id="-sample-tracks">🎧 Sample Tracks&lt;/h3>
-&lt;iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp?utm_source=generator" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">&lt;/iframe>
+&lt;iframe width="560" height="315"
+src="https://youtu.be/o4YoF9RiagQ"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+&lt;/iframe>
 &lt;p>You can find our music on &lt;a href="https://youtube.com/@missme.mp3?si=d7fnBrZOBg9DtSMw">Youtube&lt;/a>, and live shows across Evanston.&lt;/p>
 &lt;p>Want to collaborate? &lt;a href="https://brighton-sibanda.github.io/about/">Reach out!&lt;/a>&lt;/p></description></item><item><title>Resume</title><link>https://brighton-sibanda.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://brighton-sibanda.github.io/resume/</guid><description>&lt;h2 id="education">Education&lt;/h2>
 &lt;p>&lt;strong>Northwestern University&lt;/strong>&lt;br>
