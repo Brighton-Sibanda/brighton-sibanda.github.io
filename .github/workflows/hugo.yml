@@ -2,8 +2,7 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
@@ -15,14 +14,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          submodules: true  # Needed if you're using PaperMod via submodule
+          submodules: true
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.116.0'  # Compatible with PaperMod
+      - name: Install Hugo v0.147.0
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.147.0/hugo_extended_0.147.0_linux-amd64.deb
+          sudo dpkg -i hugo_extended_0.147.0_linux-amd64.deb
 
       - name: Build site
         run: hugo --minify
