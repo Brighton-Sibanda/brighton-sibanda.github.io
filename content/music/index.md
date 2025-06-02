@@ -6,10 +6,12 @@ title: "Music"
 
 In my free time, I perform as a singer with a local band. We cover indie, soul, and jazz-inspired originals.
 
-### 🎧 Sample Tracks
+## 🎶 Watch a Performance
+
+Here's a live clip from one of our recent gigs:
 
 <iframe width="560" height="315"
-  src="https://youtu.be/o4YoF9RiagQ"
+  src="https://www.youtube.com/embed/o4YoF9RiagQ"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
