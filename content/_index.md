@@ -5,6 +5,9 @@ title: "Welcome"
 # Samantha Foerster
 **Neuroscience & Anthropology Student | Mayo Clinic Observer | Musician**
 
+
+![Samantha Foerster](/images/profile.JPG)
+
 <p align="center">
   <img src="/images/profile.JPG" alt="Samantha Foerster" width="220" style="border-radius: 50%; box-shadow: 0px 0px 10px #888;">
 </p>
