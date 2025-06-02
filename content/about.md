@@ -20,10 +20,10 @@ If you’d like to reach out, fill out the form below.
 
 <form action="https://formspree.io/f/xkgbngng" method="POST">
   <label for="email">Your email:</label><br>
-  <input type="email" name="email"><br><br>
+  <input type="email" name="email" required style="width: 300px;"><br><br>
 
-  <label for="message">Message:</label><br>
-  <textarea name="message" rows="4" cols="40"></textarea><br><br>
+  <label for="message">Your message:</label><br>
+  <textarea name="message" rows="5" cols="40" required></textarea><br><br>
 
   <button type="submit">Send</button>
 </form>
