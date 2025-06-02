@@ -5,7 +5,7 @@ title: "Welcome"
 # Samantha Foerster
 **Neuroscience & Anthropology Student | Mayo Clinic Observer | Musician**
 
-![Samantha Foerster](/images/profile.jpg)
+![Samantha Foerster](/images/profile.JPG)
 
 Welcome to my digital space. I’m currently pursuing a double major at Northwestern University, working in various scientific research labs, and spending my free time performing as a singer in a band.
 
